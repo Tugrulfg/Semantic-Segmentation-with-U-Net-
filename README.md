@@ -1,4 +1,4 @@
-# Semantic-Segmentation-with-U-Net-
+# Semantic-Segmentation-with-UNet++
 U-Net++ implementation for multi-class semantic segmentation.
 
 ### Citation
